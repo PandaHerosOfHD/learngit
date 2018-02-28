@@ -1,1 +1,1 @@
-Creating a new branch is quick.
+Creadting a new branch is quick & simple.
